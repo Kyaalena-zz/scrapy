@@ -1,0 +1,90 @@
+#Busqueda con resultados varios (14)
+form_custom_params = {
+    'backURL': '',
+    'selectedIcon': 'tabDetalhada',
+    'pesquisaLivre': '',
+    'postCampo': '',
+    'tmp': '',
+    'criterioPesquisa': '"Novo CPC"',
+    'idLocalPesquisa': '1',
+    'idClasseProcessual': '',
+    'descricaoClasseProcessual': 'Digite...',
+    'idAssunto': '',
+    'descricaoAssunto': '',
+    'idOrgaoJulgadorSelecao': '',
+    'nomeOrgaoJulgador': 'Digite...',
+    'idOrgaoJulgador': '',
+    'idRelator': '',
+    'nomeRelator': 'Digite...',
+    'idComarca': '',
+    'nomeComarca': 'Digite...',
+    'processo': 'Digite...',
+    'acordao': 'Digite...',
+    'dataJulgamentoInicio': '03/10/2018',
+    'dataJulgamentoFim': '03/10/2018',
+    'dataPublicacaoInicio': '',
+    'dataPublicacaoFim': '',
+    'idsTipoDecisaoSelecionados': '1',
+    'mostrarCompleto': 'true',
+    # 'ambito': '4',
+    # 'ambito': '6',
+    'ambitoDesc': '4,6',
+    'pageSize': '10',
+    # PAGINADO donde estoy 
+    'page': '1',
+    # PAGINADO la que quiero cargar 
+    'pageNumber':'1',
+    'sortColumn': 'processo_dataJulgamento',
+    'sortOrder': 'DESC',
+    'pageVoltar': '',
+    # 'ambitoDesc': '4,6'
+    }
+
+
+
+#Busqueda con resultados cero
+
+form_custom_params = {
+    'backURL': '',
+    'selectedIcon': 'tabDetalhada',
+    'pesquisaLivre': '',
+    'postCampo': '',
+    'tmp': '',
+    'criterioPesquisa': '0048426-05.2012.8.16.000123333',
+    'idLocalPesquisa': '2',
+    'ordenacao': 'decrescente por data de julgamento',
+    'idClasseProcessual': '',
+    'descricaoClasseProcessual': 'Digite...',
+    'idAssunto': '',
+    'descricaoAssunto': '',
+    'idOrgaoJulgadorSelecao': '',
+    'nomeOrgaoJulgador': 'Digite...',
+    'idOrgaoJulgador': '',
+    'idRelator': '',
+    'nomeRelator': 'Digite...',
+    'idComarca': '',
+    'nomeComarca': 'Digite...',
+    'processo': 'Digite...',
+    'acordao': 'Digite...',
+    'dataJulgamentoInicio': '10/10/2018',
+    'dataJulgamentoFim': '19/10/2018',
+    'dataPublicacaoInicio': '',
+    'dataPublicacaoFim': '',
+    'idsTipoDecisaoSelecionados': '1',
+    'mostrarCompleto': 'true',
+    # 'ambito': '4',
+    # 'ambito': '6',
+    'ambitoDesc': '4,6',
+    'pageSize': '10',
+    # PAGINADO donde estoy 
+    'page': '1',
+    # PAGINADO la que quiero cargar 
+    'pageNumber':'1',
+    'sortColumn': 'processo_dataJulgamento',
+    'sortOrder': 'DESC',
+    'pageVoltar': '',
+    # 'ambitoDesc': '4,6'
+
+}
+
+
